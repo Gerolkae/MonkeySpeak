@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkeyspeak", "Monkeyspeak\Monkeyspeak.csproj", "{925781E6-8B75-471B-887F-616495BBBFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeyspeakTest", "MonkeyspeakTest\MonkeyspeakTest.csproj", "{44FF51A1-8FF5-444D-B36A-FE89685540A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36738DD3-4CE5-4877-AC28-D14E16160FA0}"
+	ProjectSection(SolutionItems) = preProject
+		Monkeyspeak.vsmdi = Monkeyspeak.vsmdi
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MonkeyspeakTestVB", "MonkeyspeakTestVB\MonkeyspeakTestVB.vbproj", "{3F32804A-6C3A-49AA-82A9-9AF527683209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msxc", "msxc\msxc.csproj", "{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkeyspeak.Editor", "Monkeyspeak.Editor\Monkeyspeak.Editor.csproj", "{D69B1B69-591D-4286-BE5C-52FB96D256EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{925781E6-8B75-471B-887F-616495BBBFDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{44FF51A1-8FF5-444D-B36A-FE89685540A3}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Debug|x86.ActiveCfg = Debug|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Debug|x86.Build.0 = Debug|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Release|Any CPU.ActiveCfg = Release|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Release|x86.ActiveCfg = Release|x86
+		{3F32804A-6C3A-49AA-82A9-9AF527683209}.Release|x86.Build.0 = Release|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Debug|x86.ActiveCfg = Debug|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Debug|x86.Build.0 = Debug|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Release|Any CPU.ActiveCfg = Release|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Release|x86.ActiveCfg = Release|x86
+		{DF4E5C1B-02E6-4C72-A96C-D5397F84E59F}.Release|x86.Build.0 = Release|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Debug|x86.ActiveCfg = Debug|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Debug|x86.Build.0 = Debug|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Release|Any CPU.ActiveCfg = Release|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Release|x86.ActiveCfg = Release|x86
+		{D69B1B69-591D-4286-BE5C-52FB96D256EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Monkeyspeak.vsmdi
+	EndGlobalSection
+EndGlobal
